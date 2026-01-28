@@ -7,9 +7,13 @@
 
 <!-- /!\ do not modify above this line -->
 
-# stock-logistics-workflow
+# Stock Workflow
 
-stock-logistics-workflow
+Enhance the way flows and processes are working. Find here modules that do not have their place in the other more specialized repositories.
+
+Are you looking for modules related to logistics? Or would like to contribute
+to? There are many repositories with specific purposes. Have a look at this
+[README](https://github.com/OCA/wms/blob/19.0/README.md).
 
 <!-- /!\ do not modify below this line -->
 
@@ -22,8 +26,10 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [sale_stock_picking_invoice_link](sale_stock_picking_invoice_link/) | 19.0.1.0.0 |  | Adds link between pickings and invoices
+[stock_no_negative](stock_no_negative/) | 19.0.1.0.0 |  | Disallow negative stock levels by default
 [stock_picking_filter_lot](stock_picking_filter_lot/) | 19.0.1.0.0 |  | In picking out lots' selection, filter lots based on their location
 [stock_picking_invoice_link](stock_picking_invoice_link/) | 19.0.1.0.1 |  | Adds link between pickings and invoices
+[stock_picking_origin_reference](stock_picking_origin_reference/) | 19.0.1.0.0 |  | Add clickable button to the Transfer Source Document.
 [stock_split_picking](stock_split_picking/) | 19.0.1.0.0 |  | Split a picking in two not transferred pickings
 
 [//]: # (end addons)
